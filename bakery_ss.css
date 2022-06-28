@@ -1,0 +1,78 @@
+h1{
+    color: deeppink;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Fredericka the Great', cursive;
+    text-decoration:underline;
+    text-transform: uppercase;
+    margin: 70px;
+    text-shadow: 2px 2px orange,0 0 50px greenyellow, 0 0 7px darkcyan;
+
+}
+#one{
+    color: red;
+    font-size: 30px;
+    font-family: 'Merienda', cursive;  
+    background-image: url(https://static.toiimg.com/photo/53538843.cms); 
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: contain;
+    margin-left: 30px;
+}
+#two{
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+    background-image: url(https://media.istockphoto.com/photos/black-forest-chocolate-cake-on-wooden-table-picture-id492428226?k=20&m=492428226&s=612x612&w=0&h=al7Os6E9PI2zsbnyMKCn2KT361XZfeB4IqL-e-WebYs=);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 30px;
+}
+#three{
+    color: slateblue;
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+    background-position-x: center;
+    background-image: url(https://i.pinimg.com/736x/79/a6/14/79a6142441fd6bde9d10296fca5b55f8--pepsi-fox.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 30px; 
+}
+#four{
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+    background-position-x: center;
+    background-image: url(https://images.unsplash.com/photo-1558961363-fa8fdf82db35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29va2llc3xlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 30px;
+}
+#five{
+    color: darkred;
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+    background-image: url(https://media.istockphoto.com/photos/chicken-wrap-picture-id888366454?b=1&k=20&m=888366454&s=170667a&w=0&h=Oei7WgN-6iamcKfHDQB6PBk6Hu5F33U7LqJOWSRkXFs=);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: contain;
+    margin-left: 30px;
+}
+body{
+    background-image: url(https://wallpaperaccess.com/full/1567834.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-left: dotted;
+    border-top: double;
+    border-bottom: double;
+    border-right: dotted;
+} 
+table,th,td{
+     border-style: solid;
+     padding: 13px;
+     text-align: center;
+     border-color: black;
+     border-spacing: 10px;
+     font-family: 'Merienda', cursive;
+}
+
