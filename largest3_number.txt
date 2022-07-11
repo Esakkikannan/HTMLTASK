@@ -1,0 +1,22 @@
+var x=30;
+var y=70;
+var z=50;
+if(x>z)
+{
+console.log('The largest number is x');
+}
+else
+{
+console.log('The largest number is z');
+}
+else 
+{
+if(y>z)
+{
+console.log('The largest number is y');
+}
+else
+{
+console.log('The largest number is z');
+}
+}
